@@ -3,7 +3,7 @@
  ## I'm engineer system student at CUJAE 💚, I also love the development of mobile applications, desing and tech world.
 
 
-## Learning technologies like [Odoo](https://www.odoo.com/es_ES), [JavaScript](https://www.javascript.com) and [Vue.js](https://vuejs.org).
+## Learning technologies like [Odoo](https://www.odoo.com/es_ES), [TypeScript]([https://www.javascript.com](https://www.typescriptlang.org/docs/)) and [Angular]([https://vuejs.org](https://angular.io)).
 ## ***Skills*** 
 
 * [Dart 🎯](https://dart.dev)
