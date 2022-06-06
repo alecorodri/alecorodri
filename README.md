@@ -1,9 +1,14 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
- # Hi, I'm [aleco_rodri](https://mobile.twitter.com/aleco_rodri) 
+<h1 align="center">
+ Hi, I'm
+ <A HREF="https://mobile.twitter.com/aleco_rodri"> aleco_rodri </A>
 
- ## I'm engineer system student at CUJAE 💚, I also love the development of mobile applications, desing and tech world.
+</h1>
+
+
+## I'm engineer system student at CUJAE 💚, I also love the development of mobile applications, desing and tech world.
 
 
 ## Learning technologies like [Odoo](https://www.odoo.com/es_ES), [TypeScript](https://www.typescriptlang.org/docs/) and [Angular](https://angular.io).
