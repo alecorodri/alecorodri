@@ -35,7 +35,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alecorodri&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alecorodri&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecorodri&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
