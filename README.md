@@ -42,3 +42,13 @@
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecorodri&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+###
+
+<br clear="both">
+
+<img src="https://github.com/alecorodri/alecorodri/blob/output/snake.svg" alt="Snake animation" />
+
+###
