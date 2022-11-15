@@ -25,7 +25,7 @@
 * [PostgreSQL🐘](https://www.postgresql.org)
 * [SQL 📝](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver16)
 * [Postman 🐱‍🏍](https://www.postman.com)
-* [UI](https://en.wikipedia.org/wiki/User_interface_design)[/UX 🎨](https://en.wikipedia.org/wiki/User_experience_design)
+* [UI](https://codigofacilito.com/certificates/57273)[/UX 🎨](https://codigofacilito.com/certificates/57086)
 * [Web accessibility 🛠](https://codigofacilito.com/certificates/43212.pdf)
 * [Figma 🖌](https://www.figma.com)
 * [Adobe XD](https://www.adobe.com/products/xd.html)
