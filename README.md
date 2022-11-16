@@ -12,7 +12,7 @@
 
 ## I'm engineer system student at CUJAE 💚, I also love the development of mobile applications, desing and tech world
 
-## Learning technologies like [Odoo](https://www.odoo.com/es_ES), [TypeScript](https://www.typescriptlang.org/docs/) and [Angular](https://angular.io)
+## Learning technologies like [Odoo](https://www.odoo.com/es_ES)  and [Vue.js](https://vuejs.org)
 
 ## ***Skills***
 
@@ -20,6 +20,7 @@
 * [Flutter 💙](https://flutter.dev/)
 * [Java ☕](https://www.java.com/es/)
 * [C/C++🧵](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+* [TypeScript](https://codigofacilito.com/certificates/57813)
 * [Data Structures in Java](https://docs.oracle.com/javase/tutorial/collections/intro/index.html)
 * [Python 🐍](https://www.python.org)
 * [PostgreSQL🐘](https://www.postgresql.org)
