@@ -10,7 +10,7 @@
 
 </h1>
 
-## I'm engineer system student at CUJAE 💚, I also love the development of mobile applications, desing and tech world 👨🏻‍💻
+## I'm systems engineering student at CUJAE 💚, I also love the development of mobile applications, desing and tech world 👨🏻‍💻
 
 ## Learning technologies like [Odoo](https://www.odoo.com/es_ES)  and [Vue.js](https://vuejs.org) 🌱
 
