@@ -27,7 +27,7 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://codigofacilito.com/certificates/43212.pdf" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Accessibility.svg" alt="Web accessibility" width="40" height="40"/> </a>
 <a href="https://codigofacilito.com/certificates/57273" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/layout-icon/layout-icon-16.jpg" alt="UI" width="40" height="40"/> </a>
-<a href="https://codigofacilito.com/certificates/57086" target="_blank" rel="noreferrer"> <img src="https://www.linuxsupports.com/wp-content/uploads/2018/09/flat_line_icon_98.png" alt="UX" width="40" height="40"/> </a>
+<a href="https://codigofacilito.com/certificates/57086" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.78add83ccd0d77a4df25ed74abaa5dba?rik=F5%2fYtbACrcq34w&pid=ImgRaw&r=0" alt="UX" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
