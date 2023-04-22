@@ -12,6 +12,8 @@
 
 ## I'm systems engineering student at CUJAE 💚, I also love the development of mobile applications, desing and tech world 👨🏻‍💻
 
+### You can contact me at:  aleco.rodri.dev@proton.me
+
 ## Learning technologies like [Odoo](https://www.odoo.com/es_ES)  and [Vue.js](https://vuejs.org) 🌱
 
 <h2 align="left">Languages and Tools:</h2>
