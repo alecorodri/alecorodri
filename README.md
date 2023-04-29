@@ -32,6 +32,9 @@
 <a href="https://codigofacilito.com/certificates/57086" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.78add83ccd0d77a4df25ed74abaa5dba?rik=F5%2fYtbACrcq34w&pid=ImgRaw&r=0" alt="UX" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png" alt="vsc" width="40" height="40"/> </a> 
+ 
+ 
 </p>
 
 ---
