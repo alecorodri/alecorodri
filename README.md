@@ -14,7 +14,7 @@
 
 ### You can contact me at:  aleco.rodri.dev@proton.me
 
-## Learning technologies like [Odoo](https://www.odoo.com/es_ES)  and [Vue.js](https://vuejs.org) 🌱
+## Learning technologies like [Odoo](https://www.odoo.com/es_ES), [Vue](https://vuejs.org) and [React](https://react.dev/) 🌱
 
 <h2 align="left">Languages and Tools:</h2>
 
